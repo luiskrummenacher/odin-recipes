@@ -1,0 +1,46 @@
+
+* {
+    background-color: rgb(255,190,190);
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight:700;
+    font-size: 90px;
+}
+
+/* unvisited link */
+a:link {
+    color: steelblue;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: steelblue;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: hotpink;
+  }
+
+.recipelist {
+    font-size: 45px;
+    color:steelblue;
+}
+
+img {
+    width: 600px;
+    height: auto;
+}
+
+.description {
+    font-weight:1000;
+    color:aqua;
+}
